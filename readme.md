@@ -1,4 +1,4 @@
-### Simple example of API Testing Framework using Javascript, Jest, and Frisby
+### Simple example of API Testing Framework using Javascript, Jest, and Frisby.
 
 #### Clone project:
 ```
